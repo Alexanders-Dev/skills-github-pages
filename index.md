@@ -25,10 +25,9 @@
 </head>
    
 <body>
-    
-    <p>
-        Experienced professional with over 13 years in computer repair and technical support, combined with extensive experience in machine operation and manufacturing.
-    </p>
+       <h2> Experienced professional with over 13 years in computer repair and technical support, combined with extensive experience in machine operation and manufacturing.</h2>
+</body>
+
     <p>
         <strong>Skills & Experience</strong><br>
         Computer Repair<br>
