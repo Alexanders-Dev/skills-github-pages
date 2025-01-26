@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
+      <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Jay Alexander Developer</title>
     <style>
@@ -21,8 +20,10 @@
             line-height: 1.6;
         }
     </style>
+<head>
+   <h1>Jay Alexander Computer Repair Specialist, Full Stack Developer & Machine Operator</h1>
 </head>
-    <h1>Jay Alexander Computer Repair Specialist, Full Stack Developer & Machine Operator</h1>
+   
 <body>
     
     <p>
