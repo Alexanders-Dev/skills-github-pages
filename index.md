@@ -2,24 +2,7 @@
 <html lang="en">
       <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jay Alexander Developer</title>
-    <style>
-        body {
-            background: linear-gradient(to bottom right, gold, purple, yellow);
-            font-family: Arial, sans-serif;
-            color: #fff;
-            padding: 20px;
-        }
-        h1 {
-            text-align: center;
-            font-size: 2.5em;
-            margin-bottom: 20px;
-        }
-        p {
-            font-size: 1.2em;
-            line-height: 1.6;
-        }
-    </style>
+    
 <head>
    <h1>Jay Alexander Computer Repair Specialist, Full Stack Developer & Machine Operator</h1>
 </head>
@@ -71,4 +54,22 @@
         Over 13 years of experience running Liberty PC Repair, providing comprehensive computer repair and technical support services. Combined with 12 years at EIC Engineered Ideas and Concepts, operating various industrial machines and contributing to manufacturing processes.
     </p>
 </body>
+<title>Jay Alexander Developer</title>
+    <style>
+        body {
+            background: linear-gradient(to bottom right, gold, purple, yellow);
+            font-family: Arial, sans-serif;
+            color: #fff;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 1.2em;
+            line-height: 1.6;
+        }
+    </style>
 </html>
