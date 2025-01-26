@@ -1,7 +1,6 @@
 ---
 Jay Alexander
 Computer Repair Specialist, Full Stack Developer & Machine Operator
-
 Experienced professional with over 13 years in computer repair and technical support, combined with extensive experience in machine operation and manufacturing.
 ---
 Skills & Experience
